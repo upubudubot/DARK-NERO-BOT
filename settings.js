@@ -62,7 +62,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['776290170']
-global.ownertag = '776290170' //ur tag number
+global.ownertag = '772290170' //ur tag number
 global.botname = '✫ ✫ ✫king pubba✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
