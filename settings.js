@@ -68,7 +68,7 @@ global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your them
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
+global.themeemoji = "♡" //ur theme emoji
 global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "Kaveesha sithum" //ur sticker watermark author
 
