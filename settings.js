@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-//Api Website\\
+//Api Website\\ 
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
